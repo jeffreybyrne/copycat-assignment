@@ -56,6 +56,9 @@ footer {
 
 .navbar-item {
   display: inline-block;
+  font-size: 1.2em;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 .container {
@@ -132,9 +135,15 @@ li img {
 }
 h2 {
   color: white;
-  margin: auto 10px;
+  margin: auto 15px;
+  font-size: 37.5px;
+  margin-top: 20px;
+  display: inline-block;
 }
 
+#cats p, #products p, #about p {
+  font-size: 1.2em;
+}
 
 #about {
   display: grid;
@@ -159,4 +168,12 @@ h2 {
 
 .product-item {
   margin: 10px;
+}
+
+footer {
+  background-color: #06D6A0;
+  height: 40px;
+  padding: 10px;
+  text-align: right;
+  font-size: 1.2em;
 }
