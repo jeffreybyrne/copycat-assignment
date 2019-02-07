@@ -1,0 +1,31 @@
+html, * {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  background-color: #06D6A0;
+}
+
+.hero {
+  background-color: #26547C;
+}
+
+.cta {
+  background-color: #FFD166;
+}
+
+.products {
+  background-color: #F2F2F2;
+}
+
+.about {
+  background-color: #26547C;
+}
+
+footer {
+  background-color: #06D6A0;
+}
